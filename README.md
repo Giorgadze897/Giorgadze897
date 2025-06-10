@@ -24,7 +24,7 @@ Here are some of my featured projects:
 
 ## 📫 Contact Me
 - Email: Webmaker897@gmail.com
-- Portfolio: [your-portfolio.com](https://giorgadze897.github.io/AngularPortfolio/)
+- Portfolio: [My Portfolo](https://giorgadze897.github.io/AngularPortfolio/)
 
 ---
 
